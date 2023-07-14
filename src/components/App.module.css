@@ -1,0 +1,13 @@
+
+.container{
+        width:100%;
+        min-width:320px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 50px;
+        font-size: 40px;
+        color: #010101;
+        background-color: lightgray;
+}

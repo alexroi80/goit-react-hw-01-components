@@ -1,0 +1,23 @@
+.transactionHistory {
+  width: 100%;
+  max-width: 600px;
+  border: 2px solid gray;
+  border-radius: 4px;
+}
+.tableHead {
+    padding: 15px;
+    line-height: 2;
+  color: white;
+  background-color: blue;
+}
+
+.tableRow {
+    font-size: 32px;
+    line-height: 2;
+    text-align: center;
+  color: darkgray;
+  background-color: white;
+}
+.tableRow:nth-child(2n) {
+  background-color: whitesmoke;
+}
